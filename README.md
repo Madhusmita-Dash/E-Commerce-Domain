@@ -10,6 +10,7 @@ An innovative platform for selling digital products like software, e-books, musi
 Welcome to the Customizable E-Commerce Platform—your all-in-one solution for digital product sales! Whether you're selling software, e-books, or music, this platform has the flexibility and power you need to scale. It's built using modern web design principles and provides a user-friendly experience for both customers and administrators.
 
 <h2>🎯 Key Features</h2> 
+
 * Fully Customizable Frontend: Built with Angular, making it super easy to tailor the storefront to your brand’s visual identity. 👗  
 * Modular Microservices: Separate services for product management, payment processing, and digital delivery—ideal for scaling your platform. ⚙️  
 * Secure Payment Options: Integrated with popular gateways like PayPal and Stripe for seamless transactions. 💸  
