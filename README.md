@@ -37,7 +37,7 @@ The platform’s design philosophy is centered around a clean, modern, and minim
 * Typography: Choose from a range of fonts, or add your custom font.
 * Layouts: Modify page layouts to better suit your needs.
 * Animations: Add subtle animations for interactions (hover effects, modal animations, etc.)
-* 
+
 Here's a quick glimpse at the default layout:
 
 * Home Page: Features popular products, promotions, and a search bar for easy navigation.
