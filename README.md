@@ -18,18 +18,14 @@ Welcome to the Customizable E-Commerce Platform—your all-in-one solution for d
 
 
 <h2>🛠️ Tech Stack</h2>
-
 Frontend
-
 * Angular: Build highly interactive and responsive UIs with reusable components.
 * SCSS/CSS3: For beautiful, maintainable styles.
 * TypeScript: Ensuring strong typing and reliable code.
 Backend
-
 * Microservices: Built with Spring Boot (Java), Node.js, or other technologies. Each service is isolated for easy updates and scaling.
 * REST APIs: Connects the frontend to the backend microservices smoothly.
 Database
-
 * SQL: For structured data (MySQL/PostgreSQL).
 * NoSQL: MongoDB for handling unstructured data if necessary.
 Cloud Storage
@@ -39,7 +35,6 @@ Cloud Storage
 The platform’s design philosophy is centered around a clean, modern, and minimalistic aesthetic, making your products the focus. The Angular storefront can be customized easily with CSS and SCSS, allowing you to implement unique themes and branding styles.
 
 <h2>🔑 Customizable Elements:</h2>
-
 * Color Scheme: Easily swap out colors to match your brand.
 * Typography: Choose from a range of fonts, or add your custom font.
 * Layouts: Modify page layouts to better suit your needs.
