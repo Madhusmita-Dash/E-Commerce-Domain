@@ -1,5 +1,5 @@
 <h1>🎨 Customizable E-Commerce Platform for Digital Products 🎨</h1> 
-An innovative platform for selling digital products like software, e-books, music, and more, featuring:
+An innovative platform for selling digital products like software, e-books, music and many more, featuring:
 
 * 🌟 Fully customizable storefront built with Angular
 * 🚀 Microservices architecture for scalability
